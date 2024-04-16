@@ -8,8 +8,6 @@ Features
 * Handles key-value pairs of different types (string, number, boolean)
 * Provides a user-friendly API
 
-View this project on [crates.io](https://crates.io/crates/pb-to-json)
-
 ## Installation
 To use this basic library, add the following to your `Cargo.toml` file:
 
@@ -17,6 +15,9 @@ To use this basic library, add the following to your `Cargo.toml` file:
 [dependencies]
 pb_to_json = "0.1.1"
 ```
+
+## Documentation
+Documentation is available at docs.rs, you can find it here.
 
 ## Usage
 Here's a basic example of how to use `pb_to_json`:

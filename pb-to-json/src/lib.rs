@@ -1,3 +1,5 @@
+#![doc = include_str!("../README.md")]
+
 /// Converts a protocol buffer string to a JSON string.
 ///
 /// The function takes a protocol buffer string as input and returns the corresponding JSON string.
